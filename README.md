@@ -1,2 +1,2 @@
-# SzakiIT-hambi.github.io
+# SzakiIT.hambi.github.io
 Demo page.
